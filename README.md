@@ -4,7 +4,7 @@ Desafio feito pela empresa Ewave, para avalição de conhecimento.
 
 Está aplicação foi desenvolvida com .NET Core e React, o backend foi feito em formato de API utilizando a arquitetura de DDD (DomainDriver Design) fazendo o máximo de abstrações para fácil manutenção e crescimento do código, já o FrontEnd foi feito utilizando React, separando uma camada de service com AXIOS para consumo da API criada.
 
-![Imagem](https://image.prntscr.com/image/148jVvs8Qz_7fdlfK1sT2w.png)
+![](app.gif)
 
 ## Como usar
 
