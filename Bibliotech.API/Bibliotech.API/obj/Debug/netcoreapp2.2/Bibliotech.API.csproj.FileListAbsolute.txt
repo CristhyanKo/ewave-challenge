@@ -1,0 +1,63 @@
+D:\User\38095\Desktop\Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.API.deps.json
+D:\User\38095\Desktop\Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.API.runtimeconfig.json
+D:\User\38095\Desktop\Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.API.runtimeconfig.dev.json
+D:\User\38095\Desktop\Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.API.dll
+D:\User\38095\Desktop\Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.csprojAssemblyReference.cache
+D:\User\38095\Desktop\Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.csproj.CoreCompileInputs.cache
+D:\User\38095\Desktop\Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.RazorAssemblyInfo.cache
+D:\User\38095\Desktop\Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.RazorAssemblyInfo.cs
+D:\User\38095\Desktop\Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.AssemblyInfoInputs.cache
+D:\User\38095\Desktop\Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.AssemblyInfo.cs
+D:\User\38095\Desktop\Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.RazorTargetAssemblyInfo.cache
+D:\User\38095\Desktop\Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.API.pdb
+D:\User\38095\Desktop\Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.dll
+D:\User\38095\Desktop\Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.pdb
+D:\User\38095\Desktop\Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.Domain.dll
+D:\User\38095\Desktop\Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.Infra.Data.dll
+D:\User\38095\Desktop\Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.Service.dll
+D:\User\38095\Desktop\Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.Domain.pdb
+D:\User\38095\Desktop\Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.Service.pdb
+D:\User\38095\Desktop\Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.Infra.Data.pdb
+D:\User\38095\Desktop\Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.csproj.CopyComplete
+D:\Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.API.deps.json
+D:\Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.API.runtimeconfig.json
+D:\Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.API.runtimeconfig.dev.json
+D:\Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.API.dll
+D:\Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.API.pdb
+D:\Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.Domain.dll
+D:\Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.Infra.Data.dll
+D:\Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.Service.dll
+D:\Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.Domain.pdb
+D:\Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.Service.pdb
+D:\Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.Infra.Data.pdb
+D:\Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.csprojAssemblyReference.cache
+D:\Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.csproj.CoreCompileInputs.cache
+D:\Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.RazorAssemblyInfo.cache
+D:\Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.RazorAssemblyInfo.cs
+D:\Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.AssemblyInfoInputs.cache
+D:\Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.AssemblyInfo.cs
+D:\Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.RazorTargetAssemblyInfo.cache
+D:\Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.csproj.CopyComplete
+D:\Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.dll
+D:\Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.pdb
+D:\User\38095\Desktop\Ewave - Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.API.deps.json
+D:\User\38095\Desktop\Ewave - Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.API.runtimeconfig.json
+D:\User\38095\Desktop\Ewave - Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.API.runtimeconfig.dev.json
+D:\User\38095\Desktop\Ewave - Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.API.dll
+D:\User\38095\Desktop\Ewave - Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.API.pdb
+D:\User\38095\Desktop\Ewave - Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.Domain.dll
+D:\User\38095\Desktop\Ewave - Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.Infra.Data.dll
+D:\User\38095\Desktop\Ewave - Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.Service.dll
+D:\User\38095\Desktop\Ewave - Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.Domain.pdb
+D:\User\38095\Desktop\Ewave - Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.Service.pdb
+D:\User\38095\Desktop\Ewave - Bibliotech\Bibliotech.API\Bibliotech.API\bin\Debug\netcoreapp2.2\Bibliotech.Infra.Data.pdb
+D:\User\38095\Desktop\Ewave - Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.csprojAssemblyReference.cache
+D:\User\38095\Desktop\Ewave - Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.csproj.CoreCompileInputs.cache
+D:\User\38095\Desktop\Ewave - Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.RazorAssemblyInfo.cache
+D:\User\38095\Desktop\Ewave - Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.RazorAssemblyInfo.cs
+D:\User\38095\Desktop\Ewave - Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.AssemblyInfoInputs.cache
+D:\User\38095\Desktop\Ewave - Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.AssemblyInfo.cs
+D:\User\38095\Desktop\Ewave - Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.RazorTargetAssemblyInfo.cache
+D:\User\38095\Desktop\Ewave - Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.csproj.CopyComplete
+D:\User\38095\Desktop\Ewave - Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.dll
+D:\User\38095\Desktop\Ewave - Bibliotech\Bibliotech.API\Bibliotech.API\obj\Debug\netcoreapp2.2\Bibliotech.API.pdb
