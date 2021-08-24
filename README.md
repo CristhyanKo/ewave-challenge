@@ -39,5 +39,5 @@ Acesse a pasta da API pelo explorer e abra a solução no Visual Studio 2017
 
 ## Possivel correção de problemas
 
-Caso o FrontEnd venha a apenas ficar carregando, verifique se a API está rodando, e verifique a porta na qual ela está rodando.
+Caso o FrontEnd venha a apenas ficar carregando, verifique se a API está em execução, e verifique a porta na qual ela está rodando.
 Compare com a url de acesso a api que esta no arquivo _Bibliotech.WebApp\src\services\api.js_
